@@ -1,0 +1,19 @@
+{
+  "name": "@defvayne23/pure-slider",
+  "version": "0.1",
+  "description": "Image and content slider written in pure JavaScript.",
+  "main": "PureSlider.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defvayne23/Pure-Slider.git"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "John Hoover",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/defvayne23/Pure-Slider/issues"
+  },
+  "homepage": "https://github.com/defvayne23/Pure-Slider#readme"
+}
